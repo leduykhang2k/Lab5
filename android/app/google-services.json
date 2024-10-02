@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974993333317",
+    "project_id": "first-d7329",
+    "storage_bucket": "first-d7329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974993333317:android:344695e9bd42d2b3ebd72c",
+        "android_client_info": {
+          "package_name": "com.baith"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdvIvdPuiys2_6Lkw4dEmERaDy_ElvVYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
